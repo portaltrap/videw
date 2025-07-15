@@ -1,0 +1,12 @@
+<svg id="upload" xmlns="http://www.w3.org/2000/svg" width="21.08" height="22.702" viewBox="0 0 21.08 22.702">
+  <g id="Group_2" data-name="Group 2" transform="translate(0 7.297)">
+    <g id="Group_1" data-name="Group 1" transform="translate(0)">
+      <path id="Path_1" data-name="Path 1" d="M35.713,153.6H31.659a.811.811,0,1,0,0,1.622h4.054a.811.811,0,0,1,.811.811v10.54a.811.811,0,0,1-.811.811H19.5a.811.811,0,0,1-.811-.811v-10.54a.811.811,0,0,1,.811-.811h4.054a.811.811,0,0,0,0-1.622H19.5a2.432,2.432,0,0,0-2.432,2.432v10.54A2.432,2.432,0,0,0,19.5,169H35.713a2.432,2.432,0,0,0,2.432-2.432v-10.54A2.432,2.432,0,0,0,35.713,153.6Z" transform="translate(-17.065 -153.595)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_4" data-name="Group 4" transform="translate(5.685 0)">
+    <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+      <path id="Path_2" data-name="Path 2" d="M146.223,4.291,142.169.237a.811.811,0,0,0-1.146,0l-4.054,4.054a.811.811,0,0,0,1.146,1.146l2.67-2.67V16.215a.811.811,0,1,0,1.622,0V2.768l2.67,2.67a.811.811,0,0,0,1.146-1.146Z" transform="translate(-136.741 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

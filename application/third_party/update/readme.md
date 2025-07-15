@@ -1,0 +1,1 @@
+Paste your 'upload.zip' & 'update.json' in this directory.
